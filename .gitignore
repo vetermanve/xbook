@@ -1,0 +1,10 @@
+.idea/
+venv
+/logs/*
+!/logs/README.md
+/source/*
+!/source/README.md
+/results/*
+!/results/README.md
+/docker-compose.override.yml
+file.list
