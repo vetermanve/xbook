@@ -1,0 +1,7 @@
+gTTS
+soundfile
+transformers
+datasets
+sentencepiece
+torch
+inflect
